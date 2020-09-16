@@ -130,7 +130,7 @@ namespace Lumememm_Shmelev
                 }
                 else if (tapped1 == 2)
                 {
-                    feet.Opacity = 100;
+                    feet.Opacity = 99;
                     tapped1 = 0;
                 }
             }
